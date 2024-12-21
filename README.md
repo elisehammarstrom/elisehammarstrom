@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @elisehammarstrom
-- 👀 I’m interested in growing companies
-- 🌱 I’m currently learning Python and mySQL
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me ...
+- 👀 I’m interested in scaling Octany and learn more about data engineering
+- 👩‍🏫 I've an Engineering degree within IT and a masters degree within Data Science - with a Data Engineering specialization
+- 📫 If you want to reach me - please reach me through LinkedIn
 
 <!---
 elisehammarstrom/elisehammarstrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
